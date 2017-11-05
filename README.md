@@ -1,5 +1,7 @@
 # iphone_x_stand
 
+I wanted a tidy charging solution for my iPhone X and Apple Watch Series 2 so created this stand.
+
 ## 3D Printing
 
 |Part|Count|Material|Print Time|Supports|
