@@ -18,6 +18,8 @@ I wanted a tidy wireless charging solution for my iPhone X and Apple Watch Serie
 
 ## Assembly
 
+<img src="rear_assembled.jpg" width="20%" align="right"/>
+
 1. Fit the Gikfun Qi wire coil, wire side facing the phone, into the back of the stand.  I needed to secure it with a bit of electrical tape.
 1. Fit the Gikfun Qi PCB into the studs on the base of the stand.  It should friction fit.
 1. Pull the USB cable of the OPSO Apple Watch charger through the hole in the watch stand.  Orient the cable upwards into the channel cut for it, then press the charging base into the hole.  It may take a bit of force to pop in.
