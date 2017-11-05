@@ -1,6 +1,8 @@
 # iphone_x_stand
 
-I wanted a tidy charging solution for my iPhone X and Apple Watch Series 2 so created this stand.
+I wanted a tidy wireless charging solution for my iPhone X and Apple Watch Series 2 so created this stand.
+
+<img src="front_assembled.jpg" width="50%" />
 
 ## 3D Printing
 
