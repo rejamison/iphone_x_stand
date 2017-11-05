@@ -1,15 +1,15 @@
 # iphone_x_stand
 
-# 3D Printing
+## 3D Printing
 
 |Part|Count|Material|Print Time|
 |---|---|---|---|
 |[charging_stand.stl](charging_stand.stl)|x1|88g|14 hours|
 |**Total**| |**88g**|**14 hours**|
 
-# Assembly
+## Assembly
 
-# Bill of Materials
+## Bill of Materials
 
 |Basic Tools & Materials|
 |---|
