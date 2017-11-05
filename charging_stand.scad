@@ -7,7 +7,7 @@ iphone_depth = 8.1;
 qi_diam = 50.1;
 
 iphone_stand();
-watch_stand();
+//watch_stand();
 
 module watch_stand() {
     translate([-37-20,0,70]) rotate([20,0,0]) translate([0,-40.1,0]) rotate([0,90,0]) difference() {
