@@ -24,13 +24,14 @@ I wanted a tidy wireless charging solution for my iPhone X and Apple Watch Serie
 1. Fit the Gikfun Qi PCB into the studs on the base of the stand.  It should friction fit.
 1. Pull the USB cable of the OPSO Apple Watch charger through the hole in the watch stand.  Orient the cable upwards into the channel cut for it, then press the charging base into the hole.  It may take a bit of force to pop in.
 1. Plugin a micro-USB cable to the Gikfun Qi and plugin the apple watch charger.
+1. (Optional) The LEDs on the Gikfun is quite bright, so you may want to cover them up with a bit of Sugru or Liquid Electrical Tape.
 1. Enjoy!
 
 ## Bill of Materials
 
 |Basic Tools & Materials|
 |---|
-|CA Glue (Optional)|
+|Black Sugru or Liquid Electrical Tape (Optional)|
 |Micro-USB Cable|
 
 |Item|Count|Unit Price|Total|Link|Notes|
